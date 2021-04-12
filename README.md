@@ -16,7 +16,7 @@
 
 ### 🛠 &nbsp;Tech Stack
 
-![Python](https://img.shields.io/badge/-GoLang-blue?style=flat&logo=00ADD8)&nbsp
+![Python](https://img.shields.io/badge/-GoLang-blue?style=flat&logo=00ADD8)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
@@ -26,7 +26,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-IDEA-blue?style=flat&logo=IntelliJ IDEA)\
+![IDEA](https://img.shields.io/badge/-IDEA-blue?style=flat&logo=IntelliJ IDEA)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
