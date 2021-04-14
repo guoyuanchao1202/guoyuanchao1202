@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./pic/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
+<img alt="Night Coding" src="./pic/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm guoyuanchao1202</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm guoyuanchao1202 -->
 
